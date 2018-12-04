@@ -1,0 +1,14 @@
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\bin\Debug\Engenharia.exe.config
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\bin\Debug\Engenharia.exe
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\bin\Debug\Engenharia.pdb
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.BO.resources
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.Login.resources
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.Dashboard.resources
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.Properties.Resources.resources
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.csproj.GenerateResource.cache
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.csproj.CoreCompileInputs.cache
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.exe
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.pdb
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.csprojAssemblyReference.cache
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.BO_Concluir.resources
+C:\Users\Juliana Assalti\source\repos\Engenharia\Engenharia\obj\Debug\Engenharia.BO_Historico.resources
